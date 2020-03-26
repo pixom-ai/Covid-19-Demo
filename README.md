@@ -1,4 +1,4 @@
-# Covid-19-Demo infection Detector
+# Covid-19 infection Detector
 Demo page for covid-19 Infection Detector.
 # Windows installation
 Install Flask
